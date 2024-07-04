@@ -40,7 +40,7 @@ Description: A brief overview of what the project is about, the technologies use
 ## Contact Me
 
 - **Email:** [rjdean7@gmail.com]
-- **LinkedIn:** [(https://www.linkedin.com/in/reginadeanreed/)]
+- **LinkedIn:** [(linkedin.com/in/reginadeanreed/)]
 - **Twitter:** [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
 
 ## Let's Connect
