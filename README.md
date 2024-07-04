@@ -3,7 +3,7 @@
 
 ## About Me
 
-Hi! I'm [Your Name], a dedicated Computer Repair Technician and Cybersecurity Enthusiast with over 20 years of experience based in Mississippi. My expertise includes:
+Hi! I'm Regina Dean Reed, a dedicated Computer Repair Technician and Cybersecurity Enthusiast with over 20 years of experience based in Mississippi. My expertise includes:
 
 - Removing viruses and spyware 🛡️
 - Installing and configuring secure systems 💻
@@ -39,8 +39,8 @@ Description: A brief overview of what the project is about, the technologies use
 
 ## Contact Me
 
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- **Email:** [your.email@example.com](mailto:rjdean7@gmail.com)
+- **LinkedIn:** [Your LinkedIn Profile](https://(https://www.linkedin.com/in/reginadeanreed/))
 - **Twitter:** [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
 
 ## Let's Connect
