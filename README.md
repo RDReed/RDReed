@@ -39,7 +39,7 @@ Description: A brief overview of what the project is about, the technologies use
 
 ## Contact Me
 
-- **Email:** [your.email@example.com](mailto:rjdean7@gmail.com)
+- **Email:** [rjdean7@gmail.com]
 - **LinkedIn:** [Your LinkedIn Profile](https://(https://www.linkedin.com/in/reginadeanreed/))
 - **Twitter:** [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
 
