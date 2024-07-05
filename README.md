@@ -43,6 +43,14 @@ Description: A brief overview of what the project is about, the technologies use
 - **LinkedIn:** (https://www.linkedin.com/in/reginadeanreed/)
 - **Twitter:** (https://x.com/computermedicon)
 
+## My Youtube Channel
+
+- **Information Security Awareness | Training for YOU and YOUR EMPLOYEES!:** (https://youtu.be/_QbvEbv9ozg?si=mlalZ0teKYeKW53N)
+- **LinkedIn:** (https://www.linkedin.com/in/reginadeanreed/)
+- **Twitter:** (https://x.com/computermedicon)
+
+
+
 ## Let's Connect
 
 Feel free to explore my repositories and connect with me. I am always open to new opportunities, collaborations, and discussions on cybersecurity.
