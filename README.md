@@ -1,5 +1,5 @@
 <img src="https://github.com/RDReed/RDReed/blob/939d851dd6ca9204077860bdcd49808ab50ef15f/Linedin%20(1600%20x%201600%20px).png" width="400" height="400" style="border: 10px solid black; border-radius: 20px;">
-
+https://raw.githubusercontent.com/RDReed/RDReed/f6ebe5546f67843ed8911f3300a5abdef41ddbc0/Portfolio%20Pic.png
 
 # Welcome to My Cybersecurity Portfolio! 🔐
 
