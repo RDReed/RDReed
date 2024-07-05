@@ -40,8 +40,8 @@ Description: A brief overview of what the project is about, the technologies use
 ## Contact Me
 
 - **Email:** [rjdean7@gmail.com]
-- **LinkedIn:** [(linkedin.com/in/reginadeanreed/)]
-- **Twitter:** [[@yourtwitterhandle](https://twitter.com/yourtwitterhandle)](https://x.com/computermedicon)
+- **LinkedIn:** linkedin.com/in/reginadeanreed/
+- **Twitter:** (https://x.com/computermedicon)
 
 ## Let's Connect
 
