@@ -17,7 +17,7 @@ I'm passionate about protecting systems and data, and I'm constantly seeking new
 - **Network Security**: Securing networks to prevent unauthorized access.
 - **Incident Response**: Handling security breaches and minimizing damage.
 - **Penetration Testing**: Evaluating security of systems through simulated attacks.
-- **Security Awareness Training**: Educating users on cybersecurity best practices.
+- **Phishing Scams How to Avoid phishing scams**: Educating users on cybersecurity best practices.
 
 ## Projects
 
@@ -47,8 +47,8 @@ Description: A brief overview of what the project is about, the technologies use
 
 - **Information Security Awareness | Training for YOU and YOUR EMPLOYEES!:** (https://youtu.be/_QbvEbv9ozg?si=mlalZ0teKYeKW53N)
 - **Ransomware Attack - How to protect your company |Cyber Security Awareness:** (https://youtu.be/hglN9vtnAtE?si=HSnc9-THG_GLG-rb)
-- **Twitter:** (https://x.com/computermedicon)
-
+- **How to Protect Your Computer From Hackers | Cyber Security!:** (https://youtu.be/fxTYk7Te4CU?si=aXmzI2Y4ASsWZjc9)
+- **Ransomware Attack - How to protect your company |Cyber Security Awareness:** (https://youtu.be/8fBtYSRzDTI?si=w8Y-x6yuuO5OShrb)
 
 
 ## Let's Connect
