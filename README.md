@@ -41,7 +41,7 @@ Description: A brief overview of what the project is about, the technologies use
 
 - **Email:** [rjdean7@gmail.com]
 - **LinkedIn:** [(linkedin.com/in/reginadeanreed/)]
-- **Twitter:** [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
+- **Twitter:** [[@yourtwitterhandle](https://twitter.com/yourtwitterhandle)](https://x.com/computermedicon)
 
 ## Let's Connect
 
