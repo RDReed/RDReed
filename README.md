@@ -1,4 +1,4 @@
-![image alt](https://github.com/RDReed/RDReed/blob/939d851dd6ca9204077860bdcd49808ab50ef15f/Linedin%20(600%20x%20600%20px).png)
+![image alt](https://github.com/RDReed/RDReed/blob/939d851dd6ca9204077860bdcd49808ab50ef15f/Linedin%20(1600%20x%201600%20px).png)
 # Welcome to My Cybersecurity Portfolio! 🔐
 
 ## About Me
