@@ -46,7 +46,7 @@ Description: A brief overview of what the project is about, the technologies use
 ## My Youtube Channel
 
 - **Information Security Awareness | Training for YOU and YOUR EMPLOYEES!:** (https://youtu.be/_QbvEbv9ozg?si=mlalZ0teKYeKW53N)
-- **LinkedIn:** (https://www.linkedin.com/in/reginadeanreed/)
+- **Ransomware Attack - How to protect your company |Cyber Security Awareness:** (https://youtu.be/hglN9vtnAtE?si=HSnc9-THG_GLG-rb)
 - **Twitter:** (https://x.com/computermedicon)
 
 
