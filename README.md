@@ -1,4 +1,4 @@
-![Profile Picture](https://github.com/yourusername/yourrepository/blob/main/profile-picture.jpg)
+![Profile Picture]  ![image alt]([image_url](https://github.com/RDReed/RDReed/blob/939d851dd6ca9204077860bdcd49808ab50ef15f/Linedin%20(1600%20x%201600%20px).png)) (https://github.com/yourusername/yourrepository/blob/main/profile-picture.jpg)
 # Welcome to My Cybersecurity Portfolio! 🔐
 
 ## About Me
