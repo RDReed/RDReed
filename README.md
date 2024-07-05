@@ -1,4 +1,4 @@
-<img src="https://your-image-url.type" width="100" height="100">(https://github.com/RDReed/RDReed/blob/939d851dd6ca9204077860bdcd49808ab50ef15f/Linedin%20(1600%20x%201600%20px).png)
+(https://github.com/RDReed/RDReed/blob/939d851dd6ca9204077860bdcd49808ab50ef15f/Linedin%20(1600%20x%201600%20px).png<img src="https://your-image-url.type" width="100" height="100"> )
 # Welcome to My Cybersecurity Portfolio! 🔐
 
 ## About Me
