@@ -3,9 +3,6 @@
   border-width: 1px;
   border-style: solid;
   border-color: black;
-  outline-width: 3px;
-  outline-style: solid;
-  outline-color: grey;
 }
 
 # Welcome to My Cybersecurity Portfolio! 🔐
