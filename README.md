@@ -1,8 +1,10 @@
 <img src="https://github.com/RDReed/RDReed/blob/939d851dd6ca9204077860bdcd49808ab50ef15f/Linedin%20(1600%20x%201600%20px).png" width="400" height="400" style="border: 10px solid black; border-radius: 20px;">
-.md-content img 
-  border-width: 1px;
-  border-style: solid;
-  border-color: black;
+<style>
+    .page-content img {
+        box-shadow: 0 0 36px 0 rgba(0, 0, 0, 0.1), 0px 2px 6px 0 rgba(0, 0, 0, 0.2);
+        border-radius: 3px;
+    }
+</style>
 
 # Welcome to My Cybersecurity Portfolio! 🔐
 
