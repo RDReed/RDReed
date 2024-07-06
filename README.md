@@ -1,4 +1,4 @@
-<h1>Hello, I'm Regina! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hello, I'm Regina!  <a href="https://www.linkedin.com/in/reginadeanreed/">IT Professional</a>, <a href="https://www.youtube.com/@ReginaDeanReed">YouTuber</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -51,15 +51,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Welcome to My Cybersecurity Portfolio! 
-
-## Skills
-
-- **Malware Analysis**: Identifying and mitigating malware threats.
-- **Network Security**: Securing networks to prevent unauthorized access.
-- **Incident Response**: Handling security breaches and minimizing damage.
-- **Penetration Testing**: Evaluating security of systems through simulated attacks.
-- **Phishing Scams How to Avoid phishing scams**: Educating users on cybersecurity best practices.
 
 ## 🔐  Cybersecurity Projects
 
@@ -73,12 +64,7 @@ Description: A brief overview of what the project is about, the technologies use
 ### 3. [Project Name 3](https://github.com/yourusername/project3)
 Description: A brief overview of what the project is about, the technologies used, and the outcome.
 
-## Certifications
 
-- **CompTIA A +**
-- **Google Cybersecurity Professional Certificate**
-- **Cisco Certified CyberOps Associate**
-- **(Other relevant certifications)**
 
 ## Contact Me
 
@@ -86,12 +72,6 @@ Description: A brief overview of what the project is about, the technologies use
 - **LinkedIn:** (https://www.linkedin.com/in/reginadeanreed/)
 - **Twitter:** (https://x.com/computermedicon)
 
-## My Youtube Channel
-
-- **Information Security Awareness | Training for YOU and YOUR EMPLOYEES!:** (https://youtu.be/_QbvEbv9ozg?si=mlalZ0teKYeKW53N)
-- **Ransomware Attack - How to protect your company |Cyber Security Awareness:** (https://youtu.be/hglN9vtnAtE?si=HSnc9-THG_GLG-rb)
-- **How to Protect Your Computer From Hackers | Cyber Security!:** (https://youtu.be/fxTYk7Te4CU?si=aXmzI2Y4ASsWZjc9)
-- **Ransomware Attack - How to protect your company |Cyber Security Awareness:** (https://youtu.be/8fBtYSRzDTI?si=w8Y-x6yuuO5OShrb)
 
 
 ## Let's Connect
