@@ -18,14 +18,8 @@
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://x.com/computermedicon
-[youtube]: https://www.youtube.com/@ReginaDeanReed
-[linkedin]: https://www.linkedin.com/in/reginadeanreed/
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -39,31 +33,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🔐  Cybersecurity Projects
-
-### 1. Controls and compliance checklist
-https://github.com/yourusername/project1)
-Description: Botium Toys: Scope, goals, and risk assessment report for a ficticious company
-
-### 2. [Project Name 2](https://github.com/yourusername/project2)
-Description: A brief overview of what the project is about, the technologies used, and the outcome.
-
-### 3. [Project Name 3](https://github.com/yourusername/project3)
-Description: A brief overview of what the project is about, the technologies used, and the outcome.
-
-
-
-## Contact Me
-
-- **Email:** [rjdean7@gmail.com]
-- **LinkedIn:** (https://www.linkedin.com/in/reginadeanreed/)
-- **Twitter:** (https://x.com/computermedicon)
-
-
-
-## Let's Connect
-
-Feel free to explore my repositories and connect with me. I am always open to new opportunities, collaborations, and discussions on cybersecurity.
 
 ---
 
