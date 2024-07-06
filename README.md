@@ -11,7 +11,7 @@
 - **Penetration Testing**: Evaluating security of systems through simulated attacks.
 - **Phishing Scams How to Avoid phishing scams**: Educating users on cybersecurity best practices.
 
-## 🔐 Projects
+## 🔐  Cybersecurity Projects
 
 ### 1. [Project Name 1](https://github.com/yourusername/project1)
 Description: A brief overview of what the project is about, the technologies used, and the outcome.
