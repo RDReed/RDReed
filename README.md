@@ -17,8 +17,7 @@
 
 <h2>📜 Certifications:</h2>
   
-  [Praciting Controls and Compliance Checklist](https://github.com/RDReed/ControlsandComplianceChecklist/blob/f0eafb18fd06f107c55dda0a965df11b81838078/README.md))
-  
+    
   [Comptia A+](https://github.com/RDReed/RDReed/blob/561bdb5397473a0ca7125c1d4b263275de31c2ac/CompTIa%20A%2B%2B.PDF)
 
 <h2> 🤳 Connect with me:</h2>
