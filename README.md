@@ -13,7 +13,7 @@
 - <b>C# (.NET Desktop Applications)</b>
 
 <h2>📜 Certifications:</h2>
-  
+  [Comptia A+]
 
 <h2> 🤳 Connect with me:</h2>
 
