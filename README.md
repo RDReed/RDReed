@@ -1,9 +1,3 @@
-<img src="https://github.com/RDReed/RDReed/blob/b7337fc6ceb8bd2dd6cf10e4b55703e86851df16/Portfolio%20Pic.png" width="400" height="400">
-
-
-
-
-
 
 # Welcome to My Cybersecurity Portfolio! 🔐
 
