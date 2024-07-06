@@ -7,7 +7,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Praciting Controls and Compliance Checklist](https://github.com/RDReed/RDReed/blob/c40f070a5c5c8397f1c0db2e6c01d056c2b71d5a/Copy%20of%20Controls%20and%20compliance%20checklist%20(2).pdf)
+  - [Practicing Controls and Compliance Checklist](https://github.com/RDReed/RDReed/blob/c40f070a5c5c8397f1c0db2e6c01d056c2b71d5a/Copy%20of%20Controls%20and%20compliance%20checklist%20(2).pdf)
 
 
 - <b>C# (.NET Desktop Applications)</b>
