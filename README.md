@@ -1,17 +1,7 @@
 # Hello, I'm Regina!
 
 
-# Welcome to My Cybersecurity Portfolio! 🔐
-
-## About Me
-
-Hi! I'm Regina Dean Reed, a dedicated Computer Repair Technician and Cybersecurity Enthusiast with over 20 years of experience based in Mississippi. My expertise includes:
-
-- Removing viruses and spyware 🛡️
-- Installing and configuring secure systems 💻
-- Training home users and small business owners on cybersecurity best practices 🔒
-
-I'm passionate about protecting systems and data, and I'm constantly seeking new ways to enhance my skills and knowledge in the field of cybersecurity.
+# Welcome to My Cybersecurity Portfolio! 
 
 ## Skills
 
@@ -21,7 +11,7 @@ I'm passionate about protecting systems and data, and I'm constantly seeking new
 - **Penetration Testing**: Evaluating security of systems through simulated attacks.
 - **Phishing Scams How to Avoid phishing scams**: Educating users on cybersecurity best practices.
 
-## Projects
+## 🔐 Projects
 
 ### 1. [Project Name 1](https://github.com/yourusername/project1)
 Description: A brief overview of what the project is about, the technologies used, and the outcome.
