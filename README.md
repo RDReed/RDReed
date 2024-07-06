@@ -13,7 +13,7 @@
 
 ## 🔐  Cybersecurity Projects
 
-### 1. [Controls and compliance checklist]
+### 1. Controls and compliance checklist
 https://github.com/yourusername/project1)
 Description: Botium Toys: Scope, goals, and risk assessment report for a ficticious company
 
