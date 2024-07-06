@@ -11,6 +11,8 @@
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>C# (.NET Desktop Applications)</b>
+
+<h2>📜 Certifications:</h2>
   
 
 <h2> 🤳 Connect with me:</h2>
