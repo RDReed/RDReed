@@ -11,19 +11,7 @@
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-
-<h2>📺 Cybersecurity YouTube Videos</h2>
-
-- [Information Security Awareness | Training for YOU and YOUR EMPLOYEES!](https://youtu.be/_QbvEbv9ozg?si=mlalZ0teKYeKW53N)
-- [Ransomware Attack - How to protect your company |Cyber Security Awareness](https://youtu.be/hglN9vtnAtE?si=HSnc9-THG_GLG-rb)
-- [How to Protect Your Computer From Hackers | Cyber Security!](https://youtu.be/fxTYk7Te4CU?si=aXmzI2Y4ASsWZjc9)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Ransomware Attack - How to protect your company](https://youtu.be/8fBtYSRzDTI?si=w8Y-x6yuuO5OShrb)
+  
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -32,10 +20,9 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[twitter]: https://x.com/computermedicon
+[youtube]: https://www.youtube.com/@ReginaDeanReed
+[linkedin]: https://www.linkedin.com/in/reginadeanreed/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
