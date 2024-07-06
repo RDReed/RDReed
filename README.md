@@ -7,7 +7,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Praciting Controls and Compliance Checklist](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting Controls and Compliance Checklist](https://github.com/RDReed/ControlsandComplianceChecklist/blob/f0eafb18fd06f107c55dda0a965df11b81838078/README.md))
 
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
