@@ -12,7 +12,7 @@
 
 - <b>C# (.NET Desktop Applications)</b>
 
-<h2>📜 Certifications:</h2>
+ <h2>📜 Certifications:</h2>
   
     
   [Comptia A+](https://github.com/RDReed/RDReed/blob/561bdb5397473a0ca7125c1d4b263275de31c2ac/CompTIa%20A%2B%2B.PDF)
