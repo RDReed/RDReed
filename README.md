@@ -2,8 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting Controls and compliance checklist](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting Controls and Compliance Checklist](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
@@ -18,13 +17,13 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 Cybersecurity YouTube Videos</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
+- [Information Security Awareness | Training for YOU and YOUR EMPLOYEES!](https://youtu.be/_QbvEbv9ozg?si=mlalZ0teKYeKW53N)
+- [Ransomware Attack - How to protect your company |Cyber Security Awareness](https://youtu.be/hglN9vtnAtE?si=HSnc9-THG_GLG-rb)
+- [How to Protect Your Computer From Hackers | Cyber Security!](https://youtu.be/fxTYk7Te4CU?si=aXmzI2Y4ASsWZjc9)
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Ransomware Attack - How to protect your company](https://youtu.be/8fBtYSRzDTI?si=w8Y-x6yuuO5OShrb)
 
 <h2> 🤳 Connect with me:</h2>
 
