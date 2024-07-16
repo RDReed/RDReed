@@ -17,6 +17,9 @@
     
   [Comptia A+](https://github.com/RDReed/RDReed/blob/561bdb5397473a0ca7125c1d4b263275de31c2ac/CompTIa%20A%2B%2B.PDF)
 
+  [Cybersecurity Job Simulation](https://github.com/RDReed/RDReed/blob/561bdb5397473a0ca7125c1d4b263275de31c2ac/CompTIa%20A%2B%2B.PDF)
+
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
