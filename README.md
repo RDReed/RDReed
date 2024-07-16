@@ -17,7 +17,7 @@
     
   [Comptia A+](https://github.com/RDReed/RDReed/blob/561bdb5397473a0ca7125c1d4b263275de31c2ac/CompTIa%20A%2B%2B.PDF)
 
-  [Cybersecurity Job Simulation](https://github.com/RDReed/RDReed/blob/561bdb5397473a0ca7125c1d4b263275de31c2ac/CompTIa%20A%2B%2B.PDF)
+  [Cybersecurity Job Simulation]((https://github.com/RDReed/RDReed/blob/7cd15da42697ead890b7ce66009d86eb585ec083/vcKAB5yYAgvemepGQ_Mastercard_z8g2f6GCvZSA9Wno2_1721096092583_completion_certificate.pdf))
 
 
 <h2> 🤳 Connect with me:</h2>
